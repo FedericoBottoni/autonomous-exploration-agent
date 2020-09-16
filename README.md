@@ -10,7 +10,7 @@
 This work implements a searching agent capable of exploring cluttered environments using Reinforcement Learning. The agent moves in a randomly generated space filled with obstacles and is incentivated to avoid obstacles in its path while searching for the target.
 
 #### [Live demo](https://nhabbash.github.io/autonomous-exploration-agent/)
-#### [Documentatation](docs/report.pdf)
+#### [Paper](docs/report.pdf) (attended [WOA2020](http://woa2020.apice.unibo.it/))
 #### [Presentation](docs/presentation.pdf)
 
 ## Prerequisites
